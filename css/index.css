@@ -1,0 +1,23 @@
+.btn {
+    background-color: rgb(82, 82, 82);
+}
+.jumbotron {
+    flex: auto;
+    text-align: center;
+    margin: 20px;
+    
+}
+.card-img-cat {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 3px solid black;   
+}
+.card-img-hippo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 3px solid black;  
+}
